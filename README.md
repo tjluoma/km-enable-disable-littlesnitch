@@ -62,5 +62,5 @@ Then select the [Enable-or-Disable-LittleSnitch-Network-Filter.kmmacros][1] file
 
 [Keyboard Maestro]: http://www.keyboardmaestro.com/main/
 
-[1]: https://github.com/tjluoma/km-enable-disable-littlesnitch
+[1]: https://raw.github.com/tjluoma/km-enable-disable-littlesnitch/master/Enable-or-Disable-LittleSnitch-Network-Filter.kmmacros
 
